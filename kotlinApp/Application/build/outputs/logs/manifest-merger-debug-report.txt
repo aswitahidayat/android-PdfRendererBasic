@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/09fa20c8aa1d19e43f7203ae73353117/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/53a6690a85cfd5432c3dc58ba09bb2e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4ba8a5649015185cebaaeceac16119d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6e51fb579bb532c239100429699eae7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2f545b778bc24547bdd50ff9d5d1316c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0b51149d1b62068bfb107fe6481df8c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b7434bdc4a11c404061169b91d8cbaf1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/08a451204607a5aa93a22f24f2694cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0fc0d987d82e448770e956299bd716fe/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/33cdf4271c36b2b033ae17d65d64968d/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+	package
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:19:5-51
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:1-36:12
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:21:5-33:19
+	android:label
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:21:18-45
+	android:theme
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:24:9-54
+activity#com.example.android.pdfrendererbasic.MainActivity
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:26:9-32:20
+	android:label
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:27:19-51
+	android:name
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:26:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/09fa20c8aa1d19e43f7203ae73353117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/09fa20c8aa1d19e43f7203ae73353117/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/53a6690a85cfd5432c3dc58ba09bb2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/53a6690a85cfd5432c3dc58ba09bb2e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4ba8a5649015185cebaaeceac16119d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/4ba8a5649015185cebaaeceac16119d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6e51fb579bb532c239100429699eae7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6e51fb579bb532c239100429699eae7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2f545b778bc24547bdd50ff9d5d1316c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/2f545b778bc24547bdd50ff9d5d1316c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0b51149d1b62068bfb107fe6481df8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/0b51149d1b62068bfb107fe6481df8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b7434bdc4a11c404061169b91d8cbaf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/b7434bdc4a11c404061169b91d8cbaf1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/08a451204607a5aa93a22f24f2694cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/08a451204607a5aa93a22f24f2694cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0fc0d987d82e448770e956299bd716fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/sam/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/0fc0d987d82e448770e956299bd716fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/33cdf4271c36b2b033ae17d65d64968d/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/sam/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/33cdf4271c36b2b033ae17d65d64968d/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		ADDED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/sam/workplace/android-PdfRendererBasic/kotlinApp/Application/src/main/AndroidManifest.xml
